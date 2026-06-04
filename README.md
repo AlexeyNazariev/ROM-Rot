@@ -110,7 +110,8 @@ The user interface features a sleek, unified **Dark Neon Synthwave** aesthetic.
 git clone https://github.com/AlexeyNazariev/ROM-Rot.git
 cd ROM-Rot
 cmake -B build -DCMAKE_BUILD_TYPE=Release
-cmake --build build --config Release```
+cmake --build build --config Release
+```
 
 Compiles artifacts (`.vst3`, `.component`) into the `build/ROM-Rot_artefacts/` directory.
 
